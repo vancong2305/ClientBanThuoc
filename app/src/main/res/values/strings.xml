@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ClientBanThuoc</string>
+    <string name="txtTrangChu">Trang chủ</string>
+    <string name="txtDanhMuc">Danh mục</string>
+    <string name="txtDonHang">Đơn Hàng</string>
+    <string name="txtCaNhan">Cá Nhân</string>
+
 </resources>
