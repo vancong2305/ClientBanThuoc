@@ -4,5 +4,16 @@
     <string name="txtDanhMuc">Danh mục</string>
     <string name="txtDonHang">Đơn Hàng</string>
     <string name="txtCaNhan">Cá Nhân</string>
-
+    <string name="txtTimKiem">Bạn đang tìm kiếm gì?</string>
+    <string name="txtDuocPham">Dược phẩm</string>
+    <string name="txtCSSK">Chăm sóc sức khỏe</string>
+    <string name="txtCSCN">Chăm sóc cá nhân</string>
+    <string name="txtCSSD">Chăm sóc sắc đẹp</string>
+    <string name="txtSPTL">Sản phẩm tiện lợi</string>
+    <string name="txtDanhMucSP">Danh mục sản phẩm</string>
+    <string name="txtTPCN">Thực phẩm chức năng</string>
+    <string name="txtMeVaBe">Mẹ và bé</string>
+    <string name="txtThietBiYTe">Thiết bị y tế</string>
+    <string name="txtHHNN">Hoạt huyết Nhất Nhất (3 vỉ x 10 viên/hộp)</string>
+    <string name="priceHHNN">115.000 đ/hộp</string>
 </resources>
