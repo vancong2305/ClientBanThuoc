@@ -90,7 +90,6 @@
         </LinearLayout>
 
     </androidx.constraintlayout.widget.ConstraintLayout>
-
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/body"
         android:layout_width="match_parent"
@@ -180,7 +179,7 @@
                     android:src="@drawable/arrow_right_gray" />
 
             </LinearLayout>
-<!--            line break -->
+            <!--            line break -->
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="20dp"
@@ -201,7 +200,7 @@
                 <TextView
                     android:layout_width="140dp"
                     android:layout_height="match_parent"
-                    android:layout_marginStart="26dp"
+                    android:layout_marginStart="18dp"
                     android:gravity="start"
                     android:text="Về mediMate"
                     android:textSize="16sp" />
@@ -272,7 +271,8 @@
                     android:gravity="start"
                     android:layout_marginTop="10dp"
                     android:text="1800 9988"
-                    android:textSize="16sp" />
+                    android:textSize="16sp"
+                    android:textColor="@color/header_color"/>
                 <TextView
                     android:layout_width="140dp"
                     android:layout_height="wrap_content"
@@ -280,7 +280,8 @@
                     android:layout_marginStart="50dp"
                     android:gravity="start"
                     android:text="Tư vấn đặt hàng"
-                    android:textSize="16sp" />
+                    android:textSize="16sp"
+                    />
             </RelativeLayout>
             <TextView
                 android:layout_width="match_parent"
@@ -288,7 +289,6 @@
                 android:background="@color/gray"/>
         </LinearLayout>
     </androidx.constraintlayout.widget.ConstraintLayout>
-
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/footer"
         android:layout_width="match_parent"
